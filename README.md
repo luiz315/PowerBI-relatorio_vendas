@@ -5,4 +5,4 @@ Durante muito tempo no ramo de negócios, ferramentas como Power Point, Excel, W
 
 ## Projeto 
 
-O projeto consiste em utiliza-se do sample inicial do PowerBI para fazer um relatório completo e estilizado de vendas levando em conta a usabilidade do usuário, design e desempenho. 
+O projeto consiste em utilizar-se do sample inicial do PowerBI para fazer um relatório completo e estilizado de vendas levando em conta a usabilidade do usuário, design e desempenho. 
